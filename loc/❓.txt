@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.96.7:443?path=/dbJqwUHWfrXV0Z3Q?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=o94yv7lIF0-AnXiSd9EFeHVVS7mxn6Bh.z-ULe-IKA-d-e-Ne-k-E.WORKERs.DEv#hamedp71%3A%3A%E2%9D%93
+vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.98.134:443?path=/yraL4HRbwB8cMc0F?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=o94yv7LiF0-AnxIsd9EFehVvs7mXn6bh.z-UlE-ikA-d-e-nE-k-E.WorkeRs.dEv#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#hamedp71%3A%3A%E2%9D%93
