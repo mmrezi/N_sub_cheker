@@ -2,6 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@162.159.141.83:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#hamedp71%3A%3A%E2%9D%93
-vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?path=%2Fapi%2Fv1%2Firc&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vod.ensf.top&type=ws&allowInsecure=0&sni=vod.ensf.top#hamedp71%3A%3A%E2%9D%93
-trojan://A4u%5Ep(_UR*F6@www.speedtest.net:443?encryption=none&security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&alpn=http%2F1.1&fp=chrome&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#hamedp71%3A%3A%E2%9D%93
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@162.159.137.54:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#hamedp71%3A%3A%E2%9D%93
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#hamedp71%3A%3A%E2%9D%93
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.17.147.118:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#hamedp71%3A%3A%E2%9D%93
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.64.146.86:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#hamedp71%3A%3A%E2%9D%93
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.2.173:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#hamedp71%3A%3A%E2%9D%93
