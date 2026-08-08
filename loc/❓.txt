@@ -2,4 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fhttp&host=de.vpnbase.net#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@193.42.38.209:1080#hamedp71%3A%3A%E2%9D%93
+trojan://A4u%5Ep(_UR*F6@www.speedtest.net:443?encryption=none&security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&alpn=http%2F1.1&fp=chrome&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#hamedp71%3A%3A%E2%9D%93
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OuKdkyIsImFkZCI6IjQ3LjI1MC40NS4yMzQiLCJwb3J0Ijo0MzA2MywiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjQ3LjI1MC40NS4yMzQiLCJwYXRoIjoiL2Fya2kifQ
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OuKdkyIsImFkZCI6IjQ3LjI1MC40NS4yMzQiLCJwb3J0IjoiNDMwNjMiLCJpZCI6ImM3N2Y0OGY1LTRiZTMtNDQ2MS1iNTJiLTQ5OTk4ZTdiODk3YiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2kifQ
